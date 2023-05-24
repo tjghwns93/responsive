@@ -5,6 +5,8 @@ h4, h5, h6, form, input, legend, textarea, select,
 fieldset, p, button,figcaption, figure{
     margin: 0;padding: 0;
 }
+/* 블릿기호 초기화 */
+ul,li,ol{list-style: none;}
 /* 링크초기화 */
 a{
     color: #222;
